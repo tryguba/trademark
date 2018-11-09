@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>Trademark</title>
+	<meta name="description"
+	      content="Trademark — 21 год безупречной экспертизы на службе вашего капитала. Откройте счёт и присоединяйтесь к миллионам успешных инвесторов.">
+	<meta name="keywords" content="Trademark">
+	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/normalize.css"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="node_modules/sweetalert2/dist/sweetalert2.min.css">
+	<link rel="icon" href="img/money.png" type="image/x-icon"/>
+	<link rel="shortcut icon" href="img/money.png" type="image/x-icon"/>
+</head>
+<body>
+
+<div class="nav-header"></div>
+
+<div class="nav-screen">
+	<img class="close" src="img/close.svg" alt="">
+	<div class="nav-container">
+		<div class="someclass">
+			<form class="horizontal_form" method="post" action="mail.php" id="form">
+				<div class="inputcontainer">
+					<input class="horizontalfield minorinfo"
+					       maxlength="30"
+					       name="name"
+					       placeholder="Ваше имя"
+					       type="text"></div>
+				<div class="inputcontainer">
+					<input class="horizontalfield minorinfo"
+					       maxlength="20"
+					       name="phone"
+					       placeholder=" Ваш телефон"
+					       type="tel">
+				</div>
+				<div class="inputcontainer">
+					<input class="btn-form horizontal-btn"
+					       data-wait="Please wait..."
+					       type="submit"
+					       value="открыть счёт"><br>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+
+<main>
+	<div class="hero">
+		<div class="heroimg black-overlay">
+		</div>
+		<div id="slogan_container">
+			<div class="slogan">
+				<div class="slogan_item">
+					<img class="logo" src="img/trademark.png" alt="">
+					<h1>Инвестируйте уверенно</h1>
+					<span class="subheader">Trademark&nbsp;&mdash; 21&nbsp;год безупречной экспертизы на&nbsp;службе вашего капитала. Откройте счёт и&nbsp;присоединяйтесь к&nbsp;миллионам успешных инвесторов.</span>
+				</div>
+				<span class="whitebutton slidin">Открыть счёт</span>
+			</div>
+		</div>
+	</div>
+	<div class="plashka">
+		<div class="headline">
+			<h2>Контролируйте свои инвестиции</h2>
+			<p>с премиальным сервисом от Trademark</p>
+		</div>
+		<div class="advantages_container">
+			<div class="advantages">
+				<a href="#analytics" style="color: black;">
+					<div class="advantages_item">
+						<img src="img/analytics.svg" alt="">
+						<p class="columnheader">Экспертная аналитика</p>
+					</div>
+				</a>
+				<a href="#investment" style="color: black;">
+					<div class="advantages_item">
+						<img src="img/portfolio.svg" alt="">
+						<p class="columnheader">Портфельное инвестирование</p>
+					</div>
+				</a>
+				<a href="#service" style="color: black;">
+					<div class="advantages_item">
+						<img src="img/vipservice.svg" alt="">
+						<p class="columnheader">VIP обслуживание</p>
+					</div>
+				</a>
+				<a href="#platform" style="color: black;">
+					<div class="advantages_item">
+						<img src="img/platform.svg" alt="" style="max-width: 130px">
+						<p class="columnheader">Контролируйте рынок 24/7</p>
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="plashka-white">
+		<div class="section-wrapper">
+			<aside>
+				<div class="insideaside"><a id="analytics"></a>
+					<h5><b>Экспертная</b><br>аналитика</h5>
+					<p class="bio">Инвестируйте с брокером, который работает на рынке с 1997 года. Аналитические
+						материалы от экспертов Trademark дадут вам полноценное представление о рынке и не оставят места
+						для неожиданностей.</p>
+				</div>
+			</aside>
+			<article>
+				<div class="image"><img src="img/1.jpg"/></div>
+			</article>
+		</div>
+		<div class="section-wrapper">
+			<article>
+				<div class="image blockingimg"><img src="img/2.jpg"/></div>
+			</article>
+			<aside>
+				<div class="insideaside"><a id="investment"></a>
+					<h5><b>Портфельное</b><br>инвестирование</h5>
+					<p class="bio">Раскройте потенциал инвестиций в финансовые рынки по максимуму. Каждый актив для
+						вашего портфеля подбирается вручную проверенными экспертами Международной Академии
+						Инвестиций.</p>
+				</div>
+			</aside>
+			<article class="unblockingimg">
+				<div class="image"><img src="img/2.jpg"/></div>
+			</article>
+		</div>
+		<div class="section-wrapper">
+			<aside>
+				<div class="insideaside"><a id="service"></a>
+					<h5><b>VIP</b> обслуживание</h5>
+					<p class="bio">С премиальными сервисами Trademark вы будете в числе первых, кто узнаёт о важных
+						экономических событиях. Персональный менеджер расскажет, на что обратить внимание, а что не
+						достойно вашего интереса. Когда вы решите вложить средства, вам предоставят лучшие условия на
+						рынке.</p>
+				</div>
+			</aside>
+			<article>
+				<div class="image"><img src="img/3.jpg"/></div>
+			</article>
+		</div>
+	</div>
+	<div class="section-wrapper">
+		<article>
+			<div class="image blockingimg"><img src="img/4.jpg"/></div>
+		</article>
+		<aside>
+			<div class="insideaside"><a id="platform"></a>
+				<h5>Контролируйте рынок <b>24/7</b></h5>
+				<p class="bio">С&nbsp;мобильным приложением Trademark вы&nbsp;всегда будете в&nbsp;курсе состояния
+					рынков
+					и&nbsp;своего инвестиционного портфеля. В&nbsp;Trademark вам доступны все основные инвестиционные
+					рынки и&nbsp;наиболее важная аналитическая информация. Скачайте Trademark сейчас и&nbsp;получите
+					100% кэшбэк на&nbsp;первое пополнение счёта.</p>
+				<button class="coloredbutton slidin">Открыть счёт</button>
+			</div>
+		</aside>
+		<article class="unblockingimg">
+			<div class="image"><img src="img/4.jpg"/></div>
+		</article>
+	</div>
+</main>
+
+<footer class="sitemap">
+	<div class="footer_container">
+		<p><b>© Trademark, 2018</b></p>
+		<p>The Financial Services Centre, P.O.&nbsp;Box&nbsp;1823, Stoney Ground, Kingstown, VC0100, St.&nbsp;Vincent&nbsp;&amp;
+			the&nbsp;Grenadines</p><br>
+		<p><br><strong>Предупреждение:</strong>&nbsp;Торговля финансовыми инструментами является рискованным видом
+			деятельности и&nbsp;может принести не&nbsp;только прибыль, но&nbsp;и&nbsp;убытки. Размер возможных потерь
+			ограничен величиной депозита.</p>
+		<p>Заполняя форму регистрации на&nbsp;этой странице, вы&nbsp;соглашаетесь на&nbsp;обработку персональных
+			данных.</p>
+	</div>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="node_modules/sweetalert2/dist/sweetalert2.min.js"></script>
+<script src="js/index.js"></script>
+<script>
+	$(document).ready(function () {
+		$(".advantages").on("click", "a", function (event) {
+			//отменяем стандартную обработку нажатия по ссылке
+			event.preventDefault();
+			//забираем идентификатор бока с атрибута href
+			var id = $(this).attr('href'),
+				//узнаем высоту от начала страницы до блока на который ссылается якорь
+				top = $(id).offset().top;
+			//анимируем переход на расстояние - top за 1500 мс
+			$('body,html').animate({scrollTop: top}, 1500);
+		});
+	});
+</script>
+</body>
+</html>

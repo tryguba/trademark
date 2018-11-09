@@ -54,7 +54,7 @@
 			<div class="slogan">
 				<div class="slogan_item">
 					<img class="logo" src="img/trademark.png" alt="">
-					<h1>Инвестируйте уверенно !!!</h1>
+					<h1>Инвестируйте уверенно !!</h1>
 					<span class="subheader">Trademark&nbsp;&mdash; 21&nbsp;год безупречной экспертизы на&nbsp;службе вашего капитала. Откройте счёт и&nbsp;присоединяйтесь к&nbsp;миллионам успешных инвесторов.</span>
 				</div>
 				<span class="whitebutton slidin">Открыть счёт</span>

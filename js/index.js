@@ -14,8 +14,11 @@ $(document).ready(function () {
 		});
 	};
 	
+	
+	
 	$("#form").submit(function () {
 		let msg = $('#form').serialize();
+		
 		$.ajax({
 			type: "POST",
 			url: "mail.php",
@@ -23,10 +26,18 @@ $(document).ready(function () {
 			success: function (e) {
 				// alert(e);
 				console.log(e);
-				swal({
-					type: 'success',
-					text: e
-				})
+				if(e == 'success'){
+					swal({
+						type: e,
+						text: "Спасибо! Скоро мы Вам перезвоним! :)",
+					})
+				} else {
+					swal({
+						type: e,
+						text: "Ошибка! Заполните все поля пожалуйста...",
+					})
+				}
+				
 			},
 			error: function (err) {
 				alert(err);

@@ -1,11 +1,14 @@
 <?php
 
-$name = $_POST["name"];
-$phone = $_POST["phone"];
-$subject = 'Новая заявка с сайта - ' . date('Y-m-d');
-$sitename = 'trademark';
 
-$body = "
+if(!empty($_POST['name']) AND !empty($_POST['phone'])) {
+	
+	$name = $_POST["name"];
+	$phone = $_POST["phone"];
+	$subject = 'Новая заявка с сайта - ' . date('Y-m-d');
+	$sitename = 'trademark';
+	
+	$body = "
 <html>
 <head>
 <title>$sitename</title>
@@ -25,22 +28,28 @@ $body = "
 </body>
 </html>
 ";
-$fromName = 'trademark';
-$attachmentArr = array();
+	$fromName = 'trademark';
+	$attachmentArr = array();
 
 /////////////////////////////////////////////////////////
-$addressArr = array();
-$addressArr[] = 'dode@xcodes.net';
+	$addressArr = array();
+	$addressArr[] = 'dode@xcodes.net';
 //$addressArr[] = 'sdobrovol@mail.ru';
-
-
-$se = DobrMailSender::sendMailGetaway($addressArr, $subject, $attachmentArr, $body, $fromName, 0);
-
-if ($se == true) {
-	echo "Спасибо! Скоро мы с вами свяжемся.";
+	
+	$se = DobrMailSender::sendMailGetaway($addressArr, $subject,  $attachmentArr, $body, $fromName, 0);
+	
+	if ($se) {
+		echo "success";
+		
+	} else {
+		echo "error";
+	}
 } else {
-	echo "Что то пошло не так!!";
+	echo "warning";
+	
 }
+
+
 
 
 class DobrMailSender

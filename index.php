@@ -6,10 +6,11 @@
 	<meta name="description"
 	      content="Trademark — 21 год безупречной экспертизы на службе вашего капитала. Откройте счёт и присоединяйтесь к миллионам успешных инвесторов.">
 	<meta name="keywords" content="Trademark">
-	<link rel="stylesheet" href="css/styles.css">
 	<link rel="stylesheet" href="css/normalize.css"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="node_modules/sweetalert2/dist/sweetalert2.min.css">
+	<link rel="stylesheet" href="css/animate.min.css">
+	<link rel="stylesheet" href="css/styles.css">
 	<link rel="icon" href="img/money.png" type="image/x-icon"/>
 	<link rel="shortcut icon" href="img/money.png" type="image/x-icon"/>
 </head>
@@ -53,7 +54,7 @@
 		<div id="slogan_container">
 			<div class="slogan">
 				<div class="slogan_item">
-					<img class="logo" src="img/trademark.png" alt="">
+					<img class="logo wow rotateInUpLeft" data-wow-delay="2s" src="img/trademark.png" alt="">
 					<h1>Инвестируйте уверенно</h1>
 					<span class="subheader">Trademark&nbsp;&mdash; 21&nbsp;год безупречной экспертизы на&nbsp;службе вашего капитала. Откройте счёт и&nbsp;присоединяйтесь к&nbsp;миллионам успешных инвесторов.</span>
 				</div>
@@ -176,6 +177,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="node_modules/sweetalert2/dist/sweetalert2.min.js"></script>
+<script src="js/wow.min.js"></script>
 <script src="js/index.js"></script>
 <script>
 	$(document).ready(function () {
@@ -191,5 +193,6 @@
 		});
 	});
 </script>
+<script>new WOW({mobile: false,}).init();</script>
 </body>
 </html>

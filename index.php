@@ -54,7 +54,7 @@
 		<div id="slogan_container">
 			<div class="slogan">
 				<div class="slogan_item">
-					<img class="logo wow rotateInUpLeft" data-wow-delay="2s" src="img/trademark.png" alt="">
+					<img class="logo wow zoomInDown" data-wow-delay=".5s" data-wow-duration="2s" src="img/trademark.png" alt="">
 					<h1>Инвестируйте уверенно</h1>
 					<span class="subheader">Trademark&nbsp;&mdash; 21&nbsp;год безупречной экспертизы на&nbsp;службе вашего капитала. Откройте счёт и&nbsp;присоединяйтесь к&nbsp;миллионам успешных инвесторов.</span>
 				</div>
@@ -70,25 +70,25 @@
 		<div class="advantages_container">
 			<div class="advantages">
 				<a href="#analytics" style="color: black;">
-					<div class="advantages_item">
+					<div class="advantages_item wow fadeInRightBig" data-wow-delay=".5s">
 						<img src="img/analytics.svg" alt="">
 						<p class="columnheader">Экспертная аналитика</p>
 					</div>
 				</a>
 				<a href="#investment" style="color: black;">
-					<div class="advantages_item">
+					<div class="advantages_item wow fadeInRightBig" data-wow-delay="1s">
 						<img src="img/portfolio.svg" alt="">
 						<p class="columnheader">Портфельное инвестирование</p>
 					</div>
 				</a>
 				<a href="#service" style="color: black;">
-					<div class="advantages_item">
+					<div class="advantages_item wow fadeInRightBig" data-wow-delay="1.5s">
 						<img src="img/vipservice.svg" alt="">
 						<p class="columnheader">VIP обслуживание</p>
 					</div>
 				</a>
 				<a href="#platform" style="color: black;">
-					<div class="advantages_item">
+					<div class="advantages_item wow fadeInRightBig" data-wow-delay="2s">
 						<img src="img/platform.svg" alt="" style="max-width: 130px">
 						<p class="columnheader">Контролируйте рынок 24/7</p>
 					</div>
@@ -98,7 +98,7 @@
 	</div>
 	<div class="plashka-white">
 		<div class="section-wrapper">
-			<aside>
+			<aside class="wow fadeInLeft" data-wow-delay=".5s" >
 				<div class="insideaside"><a id="analytics"></a>
 					<h5><b>Экспертная</b><br>аналитика</h5>
 					<p class="bio">Инвестируйте с брокером, который работает на рынке с 1997 года. Аналитические
@@ -106,15 +106,15 @@
 						для неожиданностей.</p>
 				</div>
 			</aside>
-			<article>
+			<article class="wow fadeInRight" data-wow-delay=".5s" >
 				<div class="image"><img src="img/1.jpg"/></div>
 			</article>
 		</div>
 		<div class="section-wrapper">
-			<article>
+			<article class="wow fadeInRight" data-wow-delay=".5s" >
 				<div class="image blockingimg"><img src="img/2.jpg"/></div>
 			</article>
-			<aside>
+			<aside class="wow fadeInLeft" data-wow-delay=".5s" >
 				<div class="insideaside"><a id="investment"></a>
 					<h5><b>Портфельное</b><br>инвестирование</h5>
 					<p class="bio">Раскройте потенциал инвестиций в финансовые рынки по максимуму. Каждый актив для
@@ -122,12 +122,12 @@
 						Инвестиций.</p>
 				</div>
 			</aside>
-			<article class="unblockingimg">
+			<article class="unblockingimg wow fadeInRight" data-wow-delay=".5s" >
 				<div class="image"><img src="img/2.jpg"/></div>
 			</article>
 		</div>
 		<div class="section-wrapper">
-			<aside>
+			<aside class="wow fadeInLeft" data-wow-delay=".5s" >
 				<div class="insideaside"><a id="service"></a>
 					<h5><b>VIP</b> обслуживание</h5>
 					<p class="bio">С премиальными сервисами Trademark вы будете в числе первых, кто узнаёт о важных
@@ -136,16 +136,16 @@
 						рынке.</p>
 				</div>
 			</aside>
-			<article>
+			<article class="wow fadeInRight" data-wow-delay=".5s" >
 				<div class="image"><img src="img/3.jpg"/></div>
 			</article>
 		</div>
 	</div>
 	<div class="section-wrapper">
-		<article>
+		<article class="wow fadeInLeftBig" data-wow-delay=".5s" >
 			<div class="image blockingimg"><img src="img/4.jpg"/></div>
 		</article>
-		<aside>
+		<aside class="wow fadeInRight" data-wow-delay=".5s" >
 			<div class="insideaside"><a id="platform"></a>
 				<h5>Контролируйте рынок <b>24/7</b></h5>
 				<p class="bio">С&nbsp;мобильным приложением Trademark вы&nbsp;всегда будете в&nbsp;курсе состояния

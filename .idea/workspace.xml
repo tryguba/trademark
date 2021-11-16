@@ -1,90 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="493d8b0b-0c66-42a4-8dc9-59678363abe7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/code-comments.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/test.com.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/dist/sweetalert2.all.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.all.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/dist/sweetalert2.all.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.css" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/dist/sweetalert2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/dist/sweetalert2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/dist/sweetalert2.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/dist/sweetalert2.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/SweetAlert.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/SweetAlert.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/animations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/animations.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/constants.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/enhancers.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/enhancers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/enhancers/withGlobalDefaults.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/enhancers/withGlobalDefaults.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/enhancers/withNoNewKeyword.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/enhancers/withNoNewKeyword.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/extensions.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/extensions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/extensions/withNoNewKeyword.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/extensions/withNoNewKeyword.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/globalState.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/globalState.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/instanceMethods.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/_main.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/instanceMethods/_main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/enable-disable-elements.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/instanceMethods/enable-disable-elements.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/getInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/instanceMethods/getInput.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/hideLoading.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/instanceMethods/hideLoading.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/progress-steps.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/instanceMethods/progress-steps.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/show-reset-validation-error.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/instanceMethods/show-reset-validation-error.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/privateProps.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/privateProps.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/adaptInputValidator.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/adaptInputValidator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/argsToParams.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/argsToParams.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/close.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/close.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/dom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/fire.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/fire.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/mixin.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/mixin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/queue.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/queue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/showLoading.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/showLoading.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/timer.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/timer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/sweetalert2.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/sweetalert2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/sweetalert2.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/sweetalert2.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/toasts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/toasts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/DismissReason.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/DismissReason.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/Symbol.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/Symbol.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/Timer.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/Timer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/WeakMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/WeakMap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/aria.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/aria.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/classes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/defaultInputValidators.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/defaultInputValidators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/animationEndEvent.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/animationEndEvent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/domUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/domUtils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/getters.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/getters.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/measureScrollbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/measureScrollbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/parseHtmlToContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/parseHtmlToContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/renderers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/renderers/renderActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderContent.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/renderers/renderContent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderIcon.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/renderers/renderIcon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderImage.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/renderers/renderImage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderProgressSteps.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/renderers/renderProgressSteps.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderTitle.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/renderers/renderTitle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/ieFix.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/ieFix.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/iosFix.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/iosFix.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/isNodeEnv.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/isNodeEnv.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/openPopup.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/openPopup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/params.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/params.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/scrollbarFix.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/scrollbarFix.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/setParameters.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/setParameters.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/sweetalert2.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/sweetalert2.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-getting-started" beforeDir="false" />
-    </list>
+    <list default="true" id="493d8b0b-0c66-42a4-8dc9-59678363abe7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,6 +20,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -127,11 +45,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637046429017</updated>
-      <workItem from="1637046431400" duration="327000" />
+      <workItem from="1637046431400" duration="769000" />
     </task>
+    <task id="LOCAL-00001" summary="changed index file">
+      <created>1637047049721</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637047049721</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed index file" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed index file" />
   </component>
 </project>

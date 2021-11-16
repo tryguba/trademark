@@ -1,428 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ad1c02b-cda4-49d8-8895-df6d2f6ccd07" name="Default Changelist" comment="">
+    <list default="true" id="493d8b0b-0c66-42a4-8dc9-59678363abe7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/code-comments.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test.com.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/mail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/dist/sweetalert2.all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.all.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/dist/sweetalert2.all.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.css" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/dist/sweetalert2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/dist/sweetalert2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/dist/sweetalert2.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/dist/sweetalert2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/SweetAlert.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/SweetAlert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/animations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/animations.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/constants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/enhancers.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/enhancers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/enhancers/withGlobalDefaults.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/enhancers/withGlobalDefaults.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/enhancers/withNoNewKeyword.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/enhancers/withNoNewKeyword.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/extensions.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/extensions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/extensions/withNoNewKeyword.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/extensions/withNoNewKeyword.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/globalState.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/globalState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/instanceMethods.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/_main.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/instanceMethods/_main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/enable-disable-elements.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/instanceMethods/enable-disable-elements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/getInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/instanceMethods/getInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/hideLoading.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/instanceMethods/hideLoading.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/progress-steps.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/instanceMethods/progress-steps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/show-reset-validation-error.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/instanceMethods/show-reset-validation-error.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/privateProps.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/privateProps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/adaptInputValidator.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/adaptInputValidator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/argsToParams.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/argsToParams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/close.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/close.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/fire.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/fire.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/mixin.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/mixin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/queue.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/queue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/showLoading.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/showLoading.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/timer.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/staticMethods/timer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/sweetalert2.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/sweetalert2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/sweetalert2.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/sweetalert2.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/toasts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/toasts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/DismissReason.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/DismissReason.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/Symbol.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/Symbol.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/Timer.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/Timer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/WeakMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/WeakMap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/aria.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/aria.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/classes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/defaultInputValidators.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/defaultInputValidators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/animationEndEvent.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/animationEndEvent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/domUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/domUtils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/getters.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/getters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/measureScrollbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/measureScrollbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/parseHtmlToContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/parseHtmlToContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/renderers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/renderers/renderActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderContent.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/renderers/renderContent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderIcon.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/renderers/renderIcon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderImage.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/renderers/renderImage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderProgressSteps.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/renderers/renderProgressSteps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderTitle.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/dom/renderers/renderTitle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/ieFix.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/ieFix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/iosFix.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/iosFix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/isNodeEnv.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/isNodeEnv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/openPopup.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/openPopup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/params.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/params.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/scrollbarFix.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/scrollbarFix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/setParameters.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/setParameters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/utils/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/src/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/src/variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert2/sweetalert2.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sweetalert2/sweetalert2.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-getting-started" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
-    <pharConfigPath>$PROJECT_DIR$/php-getting-started/composer.json</pharConfigPath>
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="398798072">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="gitignore" value="1" />
-          <entry key="js" value="4" />
-          <entry key="json" value="1" />
-          <entry key="md" value="1" />
-          <entry key="php" value="4" />
-          <entry key="txt" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Git file" value="1" />
-          <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="4" />
-          <entry key="Markdown" value="1" />
-          <entry key="PHP" value="4" />
-          <entry key="PLAIN_TEXT" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="js" value="347" />
-          <entry key="php" value="424" />
-          <entry key="txt" value="25" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JavaScript" value="347" />
-          <entry key="PHP" value="424" />
-          <entry key="PLAIN_TEXT" value="25" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.3846154">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="319">
-                  <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-                  <folding>
-                    <element signature="n#meta#1;n#head#0;n#html#0;n#!!top" />
-                    <element signature="n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#a#0;n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#a#0;n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#a#1;n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#a#1;n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#a#2;n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#a#2;n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#a#3;n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#a#3;n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#aside#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#aside#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#p#0;n#div#0;n#aside#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#article#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#article#0;n#div#1;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#aside#0;n#div#1;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#aside#0;n#div#1;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#p#0;n#div#0;n#aside#0;n#div#1;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#article#1;n#div#1;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#2;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#aside#0;n#div#2;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#aside#0;n#div#2;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#p#0;n#div#0;n#aside#0;n#div#2;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#article#0;n#div#2;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#article#0;n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#aside#0;n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#aside#0;n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#p#0;n#div#0;n#aside#0;n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#article#1;n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#p#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#p#2;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#p#3;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#script#3;n#body#0;n#html#0;n#!!top" />
-                    <element signature="e#6527#6966#0#HTML" />
-                    <element signature="e#6582#6961#0#HTML" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/mail.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="384">
-                  <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
-                  <folding>
-                    <element signature="n#html#0;n#!!top" />
-                    <element signature="n#DobrMailSender#0;n#!!top" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/js/index.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="160">
-                  <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>horizontalfield</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="Oleg Tryguba &lt;trigyba.oleg@gmail.com&gt;" />
-      </list>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/mail.php" />
-        <option value="$PROJECT_DIR$/js/index.js" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/node_modules/sweetalert2/package.json" />
-    </packageJsonPaths>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2773" />
-    <option name="y" value="31" />
-    <option name="width" value="1707" />
-    <option name="height" value="1044" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <autoscrollFromSource ProjectPane="true" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="test.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test.com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test.com" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test.com" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="20zTTi68XeuzJ5vACJBE7mfm2yQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="/media/oleg/VERSTKA/SKELET" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTHome" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\trademark" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/test.com/index.php">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.index.php" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2ad1c02b-cda4-49d8-8895-df6d2f6ccd07" name="Default Changelist" comment="" />
-      <created>1540456000893</created>
+      <changelist id="493d8b0b-0c66-42a4-8dc9-59678363abe7" name="Changes" comment="" />
+      <created>1637046429017</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1540456000893</updated>
-      <workItem from="1540456002160" duration="40000" />
-      <workItem from="1541679451911" duration="6942000" />
-      <workItem from="1541768560813" duration="151000" />
-      <workItem from="1541768732439" duration="4317000" />
-      <workItem from="1541868280593" duration="82000" />
-      <workItem from="1542022382138" duration="5315000" />
+      <updated>1637046429017</updated>
+      <workItem from="1637046431400" duration="327000" />
     </task>
-    <task id="LOCAL-00001" summary="create title">
-      <created>1541772811462</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1541772811462</updated>
-    </task>
-    <task id="LOCAL-00002" summary="change title">
-      <created>1541773214696</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1541773214696</updated>
-    </task>
-    <task id="LOCAL-00003" summary="change title">
-      <created>1541774069603</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1541774069603</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16847000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="2773" y="31" width="1707" height="1044" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09993979" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="DB Browser" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977604" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Code comment" order="7" weight="0.3295964" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295964" />
-      <window_info anchor="bottom" id="DB Execution Console" order="10" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.23814899" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="create title" />
-    <MESSAGE value="change title" />
-    <option name="LAST_COMMIT_MESSAGE" value="change title" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.htaccess.txt" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-          <folding>
-            <element signature="n#meta#1;n#head#0;n#html#0;n#!!top" />
-            <element signature="n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#0;n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#a#0;n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#1;n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#a#1;n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#2;n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#a#2;n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#3;n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#a#3;n#div#0;n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#aside#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#aside#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#p#0;n#div#0;n#aside#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#article#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#article#0;n#div#1;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#aside#0;n#div#1;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#aside#0;n#div#1;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#p#0;n#div#0;n#aside#0;n#div#1;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#article#1;n#div#1;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#aside#0;n#div#2;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#aside#0;n#div#2;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#p#0;n#div#0;n#aside#0;n#div#2;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#article#0;n#div#2;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#article#0;n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#aside#0;n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#aside#0;n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#p#0;n#div#0;n#aside#0;n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#article#1;n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#p#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#p#2;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#p#3;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#script#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6527#6966#0#HTML" />
-            <element signature="e#6582#6961#0#HTML" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
-          <folding>
-            <element signature="n#html#0;n#!!top" />
-            <element signature="n#DobrMailSender#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <option name="version" value="3" />
   </component>
 </project>
